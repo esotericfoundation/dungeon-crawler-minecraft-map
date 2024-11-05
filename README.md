@@ -1,2 +1,3 @@
-# dungeon-crawler-minecraft-map
-The Minecraft map model of the Dungeon Crawler map.
+# Dungeon Crawler Minecraft Map
+
+> The Minecraft map model of the Dungeon Crawler map.
