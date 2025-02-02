@@ -23,3 +23,7 @@ DIM1
 
 # "Old" data files
 level.dat_old
+
+# Unneeded folders
+data
+poi
