@@ -1,5 +1,7 @@
 # Dungeon Crawler Minecraft Map
 
+[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+
 > The Minecraft map model of the [Dungeon Crawler](https://github.com/EsotericFoundation/dungeon-crawler-game) map.
 
 ## License
